@@ -1,0 +1,47 @@
+Privacy Policy for Cloud Billing Solution
+Effective Date: [28-Mar-2025]
+
+At Cloud Billing Solution, we value your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, and safeguard your information when you use our GST Billing Software.
+1. Information We Collect
+
+We may collect the following types of information:
+
+    Personal Information: Name, email, contact details, and company details.
+
+    Billing Information: Invoice details, transaction history, and tax-related data.
+
+    Device & Usage Information: IP address, browser type, and interactions with our software.
+
+2. How We Use Your Information
+
+We use your information to:
+
+    Provide and improve our billing software.
+
+    Generate GST-compliant invoices.
+
+    Respond to customer queries and support requests.
+
+    Ensure compliance with tax regulations.
+
+3. Data Sharing & Security
+
+    We do not sell or share your personal data with third parties for marketing purposes.
+
+    Your data is securely stored and encrypted where applicable.
+
+    We may share data with government authorities if required by law.
+
+4. Your Rights & Choices
+
+    You can update or delete your personal information by contacting us.
+
+    You may opt-out of certain data collection features.
+
+5. Updates to This Policy
+
+We may update this Privacy Policy from time to time. Please check this page regularly for updates.
+6. Contact Us
+
+If you have any questions about this Privacy Policy, you can contact us at:
+Email: singarajagadeesh@gmail.com

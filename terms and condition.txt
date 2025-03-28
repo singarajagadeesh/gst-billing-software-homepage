@@ -1,0 +1,49 @@
+Terms and Conditions for Cloud Billing Solution
+Effective Date: [28-03-2025]
+
+These Terms and Conditions govern your use of the Cloud Billing Solution GST Billing Software. By using our software, you agree to comply with these terms.
+1. License & Use
+
+    You are granted a limited, non-exclusive license to use the software for business purposes.
+
+    You may not modify, distribute, or resell the software without permission.
+
+2. User Responsibilities
+
+    You must provide accurate business and tax-related details while using the software.
+
+    You are responsible for maintaining the security of your login credentials.
+
+    You must comply with all applicable GST and tax regulations in India.
+
+3. Data & Privacy
+
+    We collect and process data as outlined in our Privacy Policy.
+
+    You agree that Cloud Billing Solution is not responsible for any data loss or unauthorized access due to misuse.
+
+4. Payment & Subscription
+
+    If the software includes paid features, you must make timely payments.
+
+    Failure to pay may result in restricted access to premium features.
+
+5. Limitation of Liability
+
+    We are not responsible for any financial losses, tax miscalculations, or errors caused by the software.
+
+    The software is provided "as is" without any warranties.
+
+6. Termination
+
+    We may terminate your access if you violate these terms.
+
+    You may discontinue using the software at any time.
+
+7. Governing Law
+
+These Terms shall be governed by the laws of India. Any disputes shall be resolved in the jurisdiction of [Your City, India].
+8. Contact Us
+
+For any questions regarding these Terms, contact us at:
+Email: singarajagadeesh@gmail.com
